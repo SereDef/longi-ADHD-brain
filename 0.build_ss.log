@@ -1,0 +1,140 @@
+Welcome, verywise user!
+This is version: 1.2.0
+For questions, issues, and bug reports, please see https://github.com/SereDef/verywise
+Loading required package: mice
+
+Attaching package: ‘mice’
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following objects are masked from ‘package:base’:
+
+    cbind, rbind
+
+ * retrieving 20758 brain surface files...
+Welcome, verywise user!
+This is version: 1.2.0
+For questions, issues, and bug reports, please see https://github.com/SereDef/verywise
+Loading required package: mice
+Welcome, verywise user!
+This is version: 1.2.0
+For questions, issues, and bug reports, please see https://github.com/SereDef/verywise
+Loading required package: mice
+Welcome, verywise user!
+This is version: 1.2.0
+For questions, issues, and bug reports, please see https://github.com/SereDef/verywise
+Loading required package: mice
+
+Attaching package: ‘mice’
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following objects are masked from ‘package:base’:
+
+    cbind, rbind
+
+
+Attaching package: ‘mice’
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following objects are masked from ‘package:base’:
+
+    cbind, rbind
+
+
+Attaching package: ‘mice’
+
+The following object is masked from ‘package:stats’:
+
+    filter
+
+The following objects are masked from ‘package:base’:
+
+    cbind, rbind
+
+ * retrieving 20758 brain surface files...
+ * retrieving 20758 brain surface files...
+ * retrieving 20758 brain surface files...
+ * 20758/20758 observations found.
+ * 20758/20758 observations found.
+ * 20758/20758 observations found.
+ * populating super-subject matrix...
+ * populating super-subject matrix...
+ * populating super-subject matrix...
+ * 20758/20758 observations found.
+ * populating super-subject matrix...
+ * saving supersubject matrix to .rds file.
+
+Start time:  2025-08-14 12:25:47.227344 
+End time:  2025-08-14 12:36:39.494743 
+Elapsed:  10.87112 
+
+JOB STATISTICS
+==============
+Job ID: 14058680
+Array Job ID: 14058678_2
+Cluster: snellius
+User/Group: sdefina/sdefina
+State: RUNNING
+Nodes: 1
+Cores per node: 32
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 05:55:12 core-walltime
+Job Wall-clock time: 00:11:06
+Memory Utilized: 0.00 MB
+Memory Efficiency: 0.00% of 56.00 GB (1.75 GB/core)
+WARNING: Efficiency statistics can only be obtained after the job has ended as seff tool is based on the accounting database data.
+ * saving supersubject matrix to .rds file.
+
+Start time:  2025-08-14 12:25:46.974544 
+End time:  2025-08-14 12:36:45.400126 
+Elapsed:  10.97376 
+
+JOB STATISTICS
+==============
+Job ID: 14058681
+Array Job ID: 14058678_3
+Cluster: snellius
+User/Group: sdefina/sdefina
+State: RUNNING
+Nodes: 1
+Cores per node: 32
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 05:58:24 core-walltime
+Job Wall-clock time: 00:11:12
+Memory Utilized: 0.00 MB
+Memory Efficiency: 0.00% of 56.00 GB (1.75 GB/core)
+WARNING: Efficiency statistics can only be obtained after the job has ended as seff tool is based on the accounting database data.
+ * saving supersubject matrix to .rds file.
+
+Start time:  2025-08-14 12:25:47.271822 
+End time:  2025-08-14 12:36:48.984465 
+Elapsed:  11.02854 
+
+JOB STATISTICS
+==============
+Job ID: 14058679
+Array Job ID: 14058678_1
+Cluster: snellius
+User/Group: sdefina/sdefina
+State: RUNNING
+Nodes: 1
+Cores per node: 32
+CPU Utilized: 00:00:00
+CPU Efficiency: 0.00% of 06:00:32 core-walltime
+Job Wall-clock time: 00:11:16
+Memory Utilized: 0.00 MB
+Memory Efficiency: 0.00% of 56.00 GB (1.75 GB/core)
+WARNING: Efficiency statistics can only be obtained after the job has ended as seff tool is based on the accounting database data.
+ * saving supersubject matrix to .rds file.
+
+Start time:  2025-08-14 12:25:45.974005 
+End time:  2025-08-14 12:36:50.225631 
+Elapsed:  11.07086 
